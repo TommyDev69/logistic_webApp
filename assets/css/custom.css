@@ -1,0 +1,58 @@
+#slide-32-layer-1, #slide-31-layer-1 { color: #ffffff;}
+
+#slide-32-layer-2 { color: #fdfdfd; font-size: 10px !important; background: #000000; padding: 15px 15px 15px 15px !important; border-radius: 5px;}
+
+.about-business-item.bg-brand .section-title h5, .about-business-item.bg-brand .section-title h2, 
+.about-business-item.bg-brand .section-title p { color: #000000;}
+
+.bg-secondary { background-color: #000000!important;}
+
+.footer-area { background-color: #000000;}
+
+.btn-scroll-top { background-color: #2f0575;}
+
+.main-menu>li>a { color: #000000;}
+
+.header-area.sticky-header.sticky .header-action-area button { color: #000000;}
+
+.search-box-wrapper { background-color: rgba(35, 12, 80, 0.9);}
+
+.res-mobile-menu .slicknav_nav { background-color: #000000;}
+
+.page-header-wrapper:before { background-color: rgba(44, 24, 65, 0.9);}
+
+#track-bottom{ padding: 25px 15px 0px 0px;}
+
+.mb-0.info{font-size: 23px; padding-top: 15px;}
+
+.offices{min-height: 290px;}
+
+#tracking{padding: 10px 0px;}
+
+#tracking-bottom {padding: 50px 0px;}
+
+.tab-nav--2 li a { background-color: #e9ddf7; color: #301f44;}
+
+.tab-nav--2 li a.active { background-color: #f1a70b;}
+
+.tab-nav--2-pill li a:before { border-left-color: #f1a70b;}
+
+.tab-pane p{color: #301f44;}
+
+.tab-pane p span{color: #3a0594; font-weight: 600;}
+
+.tab-pane p span.title{color: #301f44; font-weight: 600;}
+
+.cd-timeline-wrap .cd-timeline-block .cd-timeline-dot { background-color: #146702;}
+
+.cd-timeline-wrap .cd-timeline-block:before { background-color: #c8c6cc;}
+
+.cd-heading span{color: #635e62; font-weight: 600;}
+
+.cd-timeline-wrap .cd-timeline-content h5 { font-size: 16px;}
+
+@media(max-width: 720px){
+	.tparrows { display: none;}
+	#slide-32-layer-1 { font-size: 35px !important;}
+	#tracking-bottom h4 {font-size: 25px; padding: 0px 18px;}
+}
